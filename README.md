@@ -22,3 +22,4 @@
   ```bash
     npm run start:dev
   ```
+4. Tener corriendo el front en el puerto 8080
